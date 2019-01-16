@@ -1,0 +1,25 @@
+{
+  "name": "konmari",
+  "version": "1.0.1",
+  "description": "A lifestyle package inspiring people to choose joy and complete their refactoring adventures.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "konmari"
+  ],
+  "authors": [
+    "Peter Shih <peter@zoneofdanger.com> (https://github.com/ptshih)"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoneofdanger/konmari.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zoneofdanger/konmari/issues"
+  },
+  "homepage": "https://github.com/zoneofdanger/konmari#readme"
+}
